@@ -1,0 +1,63 @@
+
+Skip to content
+
+    Pull requests
+    Issues
+    Marketplace
+    Explore
+
+    @AndreiOvidiuCiobanu
+
+0
+0
+
+    0
+
+AndreiOvidiuCiobanu/TemplateCars
+Code
+Issues 0
+Pull requests 0
+Projects 0
+Wiki
+Insights
+Settings
+TemplateCars/.gitignore
+d09aed6 on Sep 7
+@AndreiOvidiuCiobanu AndreiOvidiuCiobanu First Commit
+37 lines (30 sloc) 301 Bytes
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.cbp
+*.depend
+*.layout
+*.save
